@@ -50,7 +50,7 @@ The GCD of 99 , 78 is 3
 2  3      78    21      15      0    1      -3      1   -1       4
 3  1      21    15       6      1   -3       4     -1    4      -5
 4  2      15     6       3     -3    4     -11      4   -5      14
-5  2       6     3       0      4  -11          -5   14
+5  2       6     3       0      4  -11
 ```
 
 ### Fermat's Little Theorem (`fermats_little_theorem.py`)
